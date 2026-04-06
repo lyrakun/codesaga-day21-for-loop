@@ -1,2 +1,12 @@
-# codesaga-day21-for-loop
-codesaga Day 21 - learning for loop in python
+# Day 21 - for loop (codesaga journey)
+## 📌 What i learned
+- for loop basics
+- usage of loops
+
+## 💻 code included
+- basic loop
+- practice program
+
+## 🚀 Status 
+Day 21 completed
+
