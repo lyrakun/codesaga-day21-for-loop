@@ -1,4 +1,4 @@
-# Day 21 - for loop (codesaga journey)
+# Day 21 - for loop basics (codesaga journey)
 ## 📌 What i learned
 - for loop basics
 - usage of loops
